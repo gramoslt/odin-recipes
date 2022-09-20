@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#flag {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.recipe-name {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
