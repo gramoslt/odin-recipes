@@ -1,14 +1,35 @@
-h1 {
-  text-align: center;
+body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#flag {
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  border-color: black;
+}
+
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.recipe-name {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+.recipe-title {
+  background-color: rgb(5, 167, 5);
+  color: white;
+}
+
+#enchiladas-img,
+#chilaquiles-img,
+#sopes-img {
+  height: 450px;
+  width: auto;
+}
+
+.menu {
+  font-weight: bold;
+  color: red;
 }
